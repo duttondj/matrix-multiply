@@ -1,9 +1,4 @@
 /* 	Danny Dutton
-	duttondj@vt.edu
-	905570580
-	
-	ECE 3574
-	Project 6: Multithreading and Synchronization
 
 	This program uses a multithreaded approach to multiply two matrices
 	together. A seperate thread is used for each element of the product. A 
